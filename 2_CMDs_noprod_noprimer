@@ -1,0 +1,1 @@
+./find_differential_primers.py -i turf_ori_4.conf --prodigal ~/bin/prodigal --noprimer3 --cpus 10 --blast_exe -o ~/Turf_path_2ed/output/ --noprimersearch -v --debug --keep_logs

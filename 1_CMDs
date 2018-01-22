@@ -1,0 +1,4 @@
+find_differential_primers.py -i turf_ori_4.conf --single_product --filtergc3primer --prodigal ~/bin/prodigal \
+  --eprimer3 /usr/bin/eprimer3 --numreturn 2000 --psizeopt 200 --psizemin 150 --psizemax 300 --cpus 10 \
+  -o ./output/ -v --blast_exe ~/bin/blastn --debug --keep_logs
+
