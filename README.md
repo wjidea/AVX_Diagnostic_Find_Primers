@@ -3,6 +3,6 @@ Find diagnostic primers for Acidovorax avenae
 
 Python script was downloaded from a legacy version of find_differential_primers.
 
-https://github.com/widdowquinn/find_differential_primersi
+https://github.com/widdowquinn/find_differential_primers
 
 
